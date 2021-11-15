@@ -1,0 +1,9 @@
+main.c:61:5:__io_putchar	24	static
+main.c:108:8:is_pressed	16	static
+main.c:77:5:main	16	static
+main.c:119:8:Status	24	static
+main.c:133:8:led_switch	16	static
+main.c:177:6:SystemClock_Config	72	static
+main.c:213:13:MX_USART2_UART_Init	8	static
+main.c:246:13:MX_GPIO_Init	40	static
+main.c:291:6:Error_Handler	4	static,ignoring_inline_asm
